@@ -155,14 +155,14 @@ namespace wunow
                 if (extra.Count > 0)
                 {
                     Console.WriteLine("Unexpected argument `" + extra.First() + "'.");
-                    Console.WriteLine("Try `updatecon --help' for more information.");
+                    Console.WriteLine("Try `wunow --help' for more information.");
                     return;
                 }
             }
             catch (OptionException e)
             {
                 Console.WriteLine(e.Message);
-                Console.WriteLine("Try `updatecon --help' for more information.");
+                Console.WriteLine("Try `wunow --help' for more information.");
                 return;
             }
 

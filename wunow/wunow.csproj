@@ -7,8 +7,8 @@
     <ProjectGuid>{CD99A369-B36D-4A4E-8B1D-850A82725E2D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>updatecon</RootNamespace>
-    <AssemblyName>updatecon</AssemblyName>
+    <RootNamespace>wunow</RootNamespace>
+    <AssemblyName>wunow</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
